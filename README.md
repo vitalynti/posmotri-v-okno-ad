@@ -1,1 +1,1 @@
-https://github.com/vitalynti?tab=repositories
+https://github.com/vitalynti/posmotri-v-okno-ad
